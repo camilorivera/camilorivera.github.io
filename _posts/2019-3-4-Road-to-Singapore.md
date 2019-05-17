@@ -4,8 +4,6 @@ title: Road To Singapore
 comments: true
 ---
 
-### Road To Singapore
-
 Este post muestro mi relató de todo el proceso de entrevista y el discernimiento sobre la oferta.
 
 **El proceso.**
