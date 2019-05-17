@@ -1,0 +1,51 @@
+---
+layout: post
+title: 17,856 km Después
+---
+
+**Primera Historia, algo larga y cronológica, pero creanme que trate de resumir este recorrido de 5 años.**
+
+Primer post, algo largo y cronológico, pero creanme que trate de resumir este recorrido de 5 años.
+
+**Todo comenzó un Abril 2014**  lo que esperaba fuera una de las mejores oportunidades para mi desarrollo profesional, y todo arrancó con la célebre frase, "Es mejor ser cabeza de ratón que cola de león." No tarde mucho en descubrir que ser cabeza significaba para ellos ser un departamento por uno solo. De igual forma no tarde mucho en notar que mi compromiso de boda corría peligro, gracias a mi cambio de humor y carácter muy relacionado con el estrés. Ya que llevar dos trabajos, cursar una maestría y preparar una boda no es algo saludable.
+
+**En Febrero 2015** decidí que mi compromiso y mi salud mental era más importante, acepte la primera oferta que logre encontrar, dedicarme a mi segundo trabajo a tiempo completo; Ser docente para Unitec mi alma mater. Trabajo que disfrute hasta el ultimo dia, y que extraño con todo mi ser.
+
+**Después de pasar tantas emociones en Octubre 2015 a las 2 pm**, mi esposa decide que es el momento perfecto de enviarme un whatsapp justo en el momento en que daba la introducción de mi primera clase del dia. El contenido de la imagen ?, pues una foto de una prueba de embarazo con dos línea que ese momento no tenía ni idea que significaba. Luego de que amablemente ella responde a mi duda, afirmando lo que mi corazón esperaba, decido continuar con mi clase, esperando que mis alumnos no hayan notado ninguna expresión de mi cara. 15 segundos después de estar viendo la pizarra en blanco con marcador en mano y dándole la espalda a mis alumnos. Entró en razón y entiendo que de ninguna forma podría continuar dando clases durante todo el dia. Decido darles la mejor noticia que un maestro le puede dar a sus alumnos. "Chicos.. nos vemos mañana."
+
+**En noviembre del 2015** siento nuevamente como el estrés del que sali corriendo se volvió apoderar de mí, al hacer cálculos financieros y descubrir que si mi esposa dejaba de trabajar, no tendríamos para comer. Ya que una de las grandes enseñanzas me han dado mis padres es ser como los Lannisters, y siempre pagar nuestras deudas. (Quiero aclarar que es la única similitud que tiene mi familia con ellos, por si las dudas.)
+
+Ese mismo dia decido tomar un riesgo, de mucho sacrificio, pero con la mano de Dios, talvez , y solo talvez, podria funcionar. Decido escribirle al CTO de Acklen Avenue y pedirle una pasantía, esto con el fin de actualizar mis conocimientos y talvez y solo tal vez conseguir un trabajo permanente con ellos.
+
+Porque un riesgo, primero estaría trabajando 16 horas diarias, recién casado y con una esposa embarazada y las hormonas que eso incluye, segundo tendría esta rutina por 6 meses y para los que llevan la cuenta, falta aproximadamente un mes para que mi hija naciera.  
+
+El Buen Byron (CTO de Acklen Avenue), decide darme la oportunidad de la pasantía, claro era ganancia para ellos, tendrán a un empleado con un par de años de experiencia y de gratis por 6 meses.
+
+6 meses pasan, y cambie de rol 2 veces, de programador a scrum master, de scrum master a DevOps ( IT con esteroides), en este momento no tenía idea de lo que significaba para mí este último rol.
+
+Durante estos 6 meses no miraba ningún signo de que podrían ofrecerme algún puesto permanente, por lo tanto decidí que con el conocimiento nuevo adquirido era buen momento para aplicar a otras empresas, me encanto la modalidad de Acklen, trabajo remoto, por lo tanto intento aplicar a diferentes empresas con el mismo método. Prosoft, Admios, Baires Dev, y por último un post en Facebook sobre una empresa de Austin, Texas, Renovatio Cloud Solution, buscando programador, decido aplicar.
+
+**En Mayo 2016**, las entrevistas no salieron como esperaba, tenía respuestas negativas, con excepción de Renovatio que no tenía respuesta alguna, y el camino se miraba helado. Mi única esperanza era Acklen, esperaba que valorar mi desempeño y mi espíritu de trabajo.
+
+Una semana después de regresar de una capacitación con Acklen Avenue, en Copán Ruinas. El Buen Byron me escribe diciéndome que no me podían contratar en este momento como empleado a tiempo completo. Pero que podrían contratarme por hora. Recuerdo que Byron me pide mi tarifa , la cual yo con un pulso tembloroso sin saber si era demasiado, se la envio. La respuesta de Byron para mi sorpresa era que no me podían pagar esa cantidad... Pero que debían de pagar $2 más ya que era muy bajo lo que estaba pidiendo. Mi mundo me dio vueltas, Gracias a Dios mi plan había funcionado, tendría que seguir con ambos trabajos, trabajar 16 horas y pasar todo la tarde fuera de casa, pero podríamos sobrevivir , podríamos pagar el hospital, podríamos seguir soñando.
+
+El viernes de esa misma semana el Señor me sigue sorprendiendo camino a mi carro luego de impartir mi clase, recibo una llamada de Raúl, CEO de Renovatio Cloud Solution , ahora[ R/CS](https://www.facebook.com/renovatiocloudsolutions/?eid=ARAawHdMRLiZUHZB6G3l74k8m7pLeSon2GTUMDgKpbUC5RfDuGc-ZZb72-Y9QlgunN4_QtZv0SEeWG0i). Tenían una oferta de trabajo para un puesto permanente para mi. Realmente ese era un giro que no esperaba. Continue mi camino al carro, con la mente en el espacio, sudando frío, con retortijones en el estómago, con los lentes empañados. Con voz temblorosa decido llamar a mi esposa, y contarle de mi nuevo plan.
+
+Mi Plan , Dejar de mi plaza de tiempo completo en Unitec, y aceptar ambos trabajos remotos. Si ambos dicen que no hay problema seria la mejor que a un padre primerizo y con todo el corazón lleno de amor podría desear. Estar siempre en casa.
+
+**Abril 2017**, Acklen Avenue ve algo en mi y decide ponerme a cargo de un pequeño equipo de DevOps.
+
+Cabe decir que este puesto es relativamente nuevo, y no hay muchos especializados en el, especialmente en Honduras. En mi caso, he sido autodidacta, mucha lectura y mucho prueba y error. Mi responsabilidad como DevOps Manager, coordinar a este equipo y entrenarlo. Mi equipo estaba conformado por Un developer ya con un par de años de experiencia, y dos practicantes.
+
+**Mayo 2018**, siento que es momento de buscar otra oportunidad de trabajo, verán en ese momento tenía 4 trabajos ( Acklen, Renovatio, Maestro En Unah-VS, y Docente por hora en Unitec), una hija de casi 2 años, emprendiendo mi propio Coworking con mi Socio Hermano, Miguel, y mi esposa. y por último desilusión política.
+
+Actualizar mi CV fue sencillo, Aplicar a más de 50 empresas sencillo también, las entrevistas fueron lo difícil. 40 de ellas me enviaron correo de rechazo al poco tiempo, sin oportunidad a primera entrevista. 5 De ellas me dieron entrevista por teléfono, con promesa de llamarme luego para seguir luego. 1 de ellas me tuve entrevista técnica de inicio, y me fue muy muy mal, sentia que hablan de física cuántica. 4 de ellas las entrevistas fueron de maravilla. Una de ella me ofreció mudarme a Argentina, decidimos rechazar, ya que la oferta económica no era la mejor. Las otras tres seguíamos en la lucha.
+
+**Junio 2018**, Es Mei y Angelo ( CEO y  CTO de LeadQI respectivamente) que me envian un correo a las 2 de la mañana, el cual yo leo mientras me despierto para ir al baño. Sentado en mi trono, con las piernas acalambradas leo el correo 10 veces, tratando de encontrar donde estaba la broma, si era correo spam, si era algun troll. Y por último decidir si despertaba a mi dulce esposa con tan escandalosa noticia. Que teníamos una oferta de trabajo, pero que implicaba movernos a Singapur.
+
+Me disculpo con mi esposa ya que yo pude dormir en cuanto le conté, librando todas mis preguntas y temores con ella. Ella, pues estuvo en vela toda la noche. Al dia siguiente luego de platicar con Nuestros padres y familia, decidimos aceptar la oferta.
+
+**Enero 2019**, viajamos 17,856 km de nuestro hogar, familiares e Hijos, para empezar una nueva aventura. Una aventura que sabemos no será fácil, pero seguros que no sera la ultima que tendremos. Yo no creo que coincidencia, mucho menos en suerte. Pero si creo en el trabajo duro y sus recompensas. En los valores y principios que nuestros padres nos dieron. En el valentia y amor que tiene mi esposa por mi. Porque solo con amor podrías hacer que alguien deje su tierra. En que el miedo solo es una emoción y que los riesgos son parte de la vida.
+
+**En conclusión**, esta aventura no ha sido fácil, no ha sido suerte, ni coincidencia, ha sido 100% trabajo duro y 100% oracion. Doy gracias a Dios por esta oportunidad, a mis papas por el apoyo incondicional, a mi suegra por educar a una hija luchona y mi complemento, a mis hermanos por siempre estar para mi, mis amistades por alegrarse por las cosas buenas y por apoyarme en las malas. Al licenciado Mario Umanzor (Q.E.P.D) que me ayudó vencer mi pánico escénico, sin él no hubiera podido ser maestro, Mr. Molanphy que me ayudó a descubrir mi sentido de liderazgo, Lic. Mirtha Coto por guiarme a la carrera y profesión que cambiaría mi vida. Y por ultimo y mas importante, a mi Abuela, ella sabe porque. 
+
