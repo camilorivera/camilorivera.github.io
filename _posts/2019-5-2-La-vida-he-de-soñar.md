@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 17,856 km Después
+title: La vida he de soñar
 comments: true
 ---
 Mi familia es algo que solo soñando me lo podía imaginar. En ningún momento de mi corta vida, he estado tan asustado y a la vez tan ilusionado. Meses antes del nacimiento de mi hija, lo que sentía solo lo pude expresar con estos versos.  
